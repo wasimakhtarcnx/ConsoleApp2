@@ -1,0 +1,3 @@
+language: csharp
+solution: ConsoleApp2.sln
+dotnet: 2.1
